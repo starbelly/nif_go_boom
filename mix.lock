@@ -1,0 +1,3 @@
+%{
+  "enacl": {:hex, :enacl, "1.0.0", "1bacae6c8aad1a2944ed5eb108e241d0d5e466819b685dfa690650abdff9bba0", [:rebar3], [], "hexpm", "308b38a8cb0d244c97d06b8da73abc318d73f576ab1e7c4999eaf0bbcf993bd2"},
+}
