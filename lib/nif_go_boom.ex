@@ -13,6 +13,6 @@ defmodule NifGoBoom do
 
   """
   def hello do
-    Application.get_env(:nif_go_boom, :hello, "Ruh-roh!")
+    :world
   end
 end
