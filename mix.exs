@@ -28,7 +28,7 @@ defmodule NifGoBoom.MixProject do
 
   defp deps do
     [
-      {:enacl, "~> 1.1.0"}
+      {:enacl, git: "https://github.com/starbelly/enacl", branch: "fixup-enacl-nif-return"}
     ]
   end
 end
