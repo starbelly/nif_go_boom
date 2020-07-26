@@ -13,7 +13,7 @@ defmodule NifGoBoom.MixProject do
           include_executables_for: [:unix],
           applications: [runtime_tools: :permanent],
           # Change this to false to prevent nif going boom
-          reboot_system_after_config: false
+          reboot_system_after_config: true
         ]
       ]
     ]
